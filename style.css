@@ -1,11 +1,8 @@
 body {
     background-color: rgb(60, 142, 251);  
     font: normal 15pt arial;
-    display: flex;
-    justify-content: center;
     text-align: center;
-    flex-direction: column;
-
+    
 }
 
 header>h1 {
@@ -14,10 +11,7 @@ header>h1 {
 
 section {
     background-color: white;
-    display: flex;
-    justify-content: center;
     text-align: center;
-    flex-direction: column;
     width: 500px;
     margin: auto;
     padding: 25px;
