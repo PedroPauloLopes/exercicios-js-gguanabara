@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(87, 143, 226);
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    color: black;
+    width: 400px;
+    text-align: left;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px;
+    margin: auto;
+}
+
+footer {
+    padding: 15px;
+    font-weight: bold;
+}
